@@ -8,8 +8,8 @@
     "dev": "ts-node-dev src/server.ts"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Pedro Santos",
+  "license": "MIT",
   "devDependencies": {
     "@swc/core": "^1.2.177",
     "@swc/jest": "^0.2.20",
